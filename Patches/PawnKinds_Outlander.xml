@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/PawnKindDef[defName="Town_Trader"]/xenotypeSet/xenotypeChances</xpath>
+    <value>
+		<CustomXenotypesIncluded_Custom>0.04</CustomXenotypesIncluded_Custom>
+	</value>
+  </Operation>
+</Patch>

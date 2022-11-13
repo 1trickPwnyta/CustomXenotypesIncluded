@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/PawnKindDef[@Name="RefugeeBase"]/xenotypeSet/xenotypeChances</xpath>
+    <value>
+		<CustomXenotypesIncluded_Custom>0.025</CustomXenotypesIncluded_Custom>
+	</value>
+  </Operation>
+</Patch>

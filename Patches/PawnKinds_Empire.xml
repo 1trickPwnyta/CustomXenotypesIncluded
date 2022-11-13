@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/PawnKindDef[defName="Slave_Empire"]/xenotypeSet/xenotypeChances</xpath>
+    <value>
+		<CustomXenotypesIncluded_Custom>0.05</CustomXenotypesIncluded_Custom>
+	</value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/PawnKindDef[defName="Empire_Common_Lodger"]/xenotypeSet/xenotypeChances</xpath>
+    <value>
+		<CustomXenotypesIncluded_Custom>0.1</CustomXenotypesIncluded_Custom>
+	</value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/PawnKindDef[defName="Empire_Common_Trader"]/xenotypeSet/xenotypeChances</xpath>
+    <value>
+		<CustomXenotypesIncluded_Custom>0.05</CustomXenotypesIncluded_Custom>
+	</value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/PawnKindDef[defName="Empire_Common_Laborer"]/xenotypeSet/xenotypeChances</xpath>
+    <value>
+		<CustomXenotypesIncluded_Custom>0.03</CustomXenotypesIncluded_Custom>
+	</value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/PawnKindDef[defName="Empire_Fighter_Trooper"]/xenotypeSet/xenotypeChances</xpath>
+    <value>
+		<CustomXenotypesIncluded_Custom>0.03</CustomXenotypesIncluded_Custom>
+	</value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/PawnKindDef[defName="Empire_Fighter_Grenadier"]/xenotypeSet/xenotypeChances</xpath>
+    <value>
+		<CustomXenotypesIncluded_Custom>0.03</CustomXenotypesIncluded_Custom>
+	</value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/PawnKindDef[defName="Empire_Fighter_Janissary"]/xenotypeSet/xenotypeChances</xpath>
+    <value>
+		<CustomXenotypesIncluded_Custom>0.03</CustomXenotypesIncluded_Custom>
+	</value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/PawnKindDef[defName="Empire_Fighter_Champion"]/xenotypeSet/xenotypeChances</xpath>
+    <value>
+		<CustomXenotypesIncluded_Custom>0.03</CustomXenotypesIncluded_Custom>
+	</value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/PawnKindDef[defName="Empire_Fighter_Cataphract"]/xenotypeSet/xenotypeChances</xpath>
+    <value>
+		<CustomXenotypesIncluded_Custom>0.03</CustomXenotypesIncluded_Custom>
+	</value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/PawnKindDef[@Name="StellicGuardBase"]/xenotypeSet/xenotypeChances</xpath>
+    <value>
+		<CustomXenotypesIncluded_Custom>0.03</CustomXenotypesIncluded_Custom>
+	</value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/PawnKindDef[defName="Empire_Royal_NobleWimp"]/xenotypeSet/xenotypeChances</xpath>
+    <value>
+		<CustomXenotypesIncluded_Custom>0.05</CustomXenotypesIncluded_Custom>
+	</value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/PawnKindDef[defName="Empire_Royal_Yeoman"]/xenotypeSet/xenotypeChances</xpath>
+    <value>
+		<CustomXenotypesIncluded_Custom>0.05</CustomXenotypesIncluded_Custom>
+	</value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/PawnKindDef[defName="Empire_Royal_Acolyte"]/xenotypeSet/xenotypeChances</xpath>
+    <value>
+		<CustomXenotypesIncluded_Custom>0.05</CustomXenotypesIncluded_Custom>
+	</value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/PawnKindDef[defName="Empire_Royal_Knight"]/xenotypeSet/xenotypeChances</xpath>
+    <value>
+		<CustomXenotypesIncluded_Custom>0.05</CustomXenotypesIncluded_Custom>
+	</value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/PawnKindDef[defName="Empire_Royal_Praetor"]/xenotypeSet/xenotypeChances</xpath>
+    <value>
+		<CustomXenotypesIncluded_Custom>0.05</CustomXenotypesIncluded_Custom>
+	</value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/PawnKindDef[defName="Empire_Royal_Baron"]/xenotypeSet/xenotypeChances</xpath>
+    <value>
+		<CustomXenotypesIncluded_Custom>0.05</CustomXenotypesIncluded_Custom>
+	</value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/PawnKindDef[defName="Empire_Royal_Count"]/xenotypeSet/xenotypeChances</xpath>
+    <value>
+		<CustomXenotypesIncluded_Custom>0.05</CustomXenotypesIncluded_Custom>
+	</value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/PawnKindDef[defName="Empire_Royal_Duke"]/xenotypeSet/xenotypeChances</xpath>
+    <value>
+		<CustomXenotypesIncluded_Custom>0.05</CustomXenotypesIncluded_Custom>
+	</value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/PawnKindDef[defName="Empire_Royal_Consul"]/xenotypeSet/xenotypeChances</xpath>
+    <value>
+		<CustomXenotypesIncluded_Custom>0.05</CustomXenotypesIncluded_Custom>
+	</value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/PawnKindDef[defName="Empire_Royal_Stellarch"]/xenotypeSet/xenotypeChances</xpath>
+    <value>
+		<CustomXenotypesIncluded_Custom>0.05</CustomXenotypesIncluded_Custom>
+	</value>
+  </Operation>
+</Patch>

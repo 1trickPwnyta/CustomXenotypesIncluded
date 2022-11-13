@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+  <XenotypeDef>
+    <defName>CustomXenotypesIncluded_Custom</defName>
+    <label>CustomXenotypesIncluded_Custom</label>
+    <description>(do not use) XenotypeDef used internally by Custom Xenotypes Included</description>
+    <iconPath>UI/Icons/Xenotypes/Baseliner</iconPath>
+  </XenotypeDef>
+</Defs>

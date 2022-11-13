@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/FactionDef[defName="PirateWaster"]/xenotypeSet/xenotypeChances</xpath>
+    <value>
+		<CustomXenotypesIncluded_Custom>0.025</CustomXenotypesIncluded_Custom>
+	</value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/FactionDef[@Name="OutlanderFactionBase"]/xenotypeSet/xenotypeChances</xpath>
+    <value>
+		<CustomXenotypesIncluded_Custom>0.025</CustomXenotypesIncluded_Custom>
+	</value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/FactionDef[defName="Pirate"]/xenotypeSet/xenotypeChances</xpath>
+    <value>
+		<CustomXenotypesIncluded_Custom>0.025</CustomXenotypesIncluded_Custom>
+	</value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/FactionDef[defName="Beggars"]/xenotypeSet/xenotypeChances</xpath>
+    <value>
+		<CustomXenotypesIncluded_Custom>0.025</CustomXenotypesIncluded_Custom>
+	</value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/FactionDef[defName="Pilgrims"]/xenotypeSet/xenotypeChances</xpath>
+    <value>
+		<CustomXenotypesIncluded_Custom>0.025</CustomXenotypesIncluded_Custom>
+	</value>
+  </Operation>
+  <Operation Class="PatchOperationAdd">
+    <xpath>/Defs/FactionDef[defName="OutlanderRefugee"]/xenotypeSet/xenotypeChances</xpath>
+    <value>
+		<CustomXenotypesIncluded_Custom>0.025</CustomXenotypesIncluded_Custom>
+	</value>
+  </Operation>
+</Patch>
